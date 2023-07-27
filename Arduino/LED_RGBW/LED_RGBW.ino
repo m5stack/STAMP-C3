@@ -2,6 +2,8 @@
   This example works on STAMP-C3 and STAMP-C3U.
   It is copied from the "Freenove_WS2812_Lib_for_ESP32" library example.
   Install "Freenove_WS2812_Lib_for_ESP32" library First.
+  Depends:
+  - [Freenove_WS2812_Lib_for_ESP32]https://github.com/Freenove/Freenove_WS2812_Lib_for_ESP32
 */
 
 #include "Freenove_WS2812_Lib_for_ESP32.h"
